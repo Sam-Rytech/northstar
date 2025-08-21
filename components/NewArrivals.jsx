@@ -20,7 +20,7 @@ export default function NewArrivals() {
             <img
               src={p.img}
               alt={p.name}
-              className="w-full h-64 object-cover"
+              className="object-cover"
             />
             <p>{p.name}</p>
             <p className="text-blue-600">{p.price}</p>
