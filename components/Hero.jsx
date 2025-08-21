@@ -1,7 +1,7 @@
 export default function Hero() {
   return (
     <section
-      className="relative h-[600px] flex items-center justify-end bg-cover bg-center"
+      className="relative h-[650px] flex items-center justify-end bg-cover bg-center"
       style={{ backgroundImage: "url('/Hero.png')" }}
     >
       <div className="text-center text-white">
