@@ -3,6 +3,10 @@ const products = [
   { name: 'Denim Jacket', price: '$69.00', img: '/p2.jpg' },
   { name: 'Black Polo Shirt', price: '$49.00', img: '/p3.jpg' },
   { name: 'Blue Sweatshirt', price: '$79.00', img: '/p4.jpg' },
+  { name: 'Blue Plain Shirt', price: '$49.00', img: '/p1.jpg' },
+  { name: 'Dark Blue Shirt', price: '$89.00', img: '/p1.jpg' },
+  { name: 'Outcast T Shirt', price: '$19.00', img: '/p1.jpg' },
+  { name: 'Polo Plain Shirt', price: '$29.00', img: '/p1.jpg' },
 ]
 
 export default function NewArrivals() {
