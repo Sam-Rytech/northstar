@@ -1,12 +1,12 @@
 const products = [
-  { name: 'Plain White Shirt', price: '$29.00', img: '/p1.jpg' },
-  { name: 'Denim Jacket', price: '$69.00', img: '/p2.jpg' },
-  { name: 'Black Polo Shirt', price: '$49.00', img: '/p3.jpg' },
-  { name: 'Blue Sweatshirt', price: '$79.00', img: '/p4.jpg' },
-  { name: 'Blue Plain Shirt', price: '$49.00', img: '/p1.jpg' },
-  { name: 'Dark Blue Shirt', price: '$89.00', img: '/p1.jpg' },
-  { name: 'Outcast T Shirt', price: '$19.00', img: '/p1.jpg' },
-  { name: 'Polo Plain Shirt', price: '$29.00', img: '/p1.jpg' },
+  { name: 'Plain White Shirt', price: '$29.00', img: '/Arrival1.png' },
+  { name: 'Denim Jacket', price: '$69.00', img: '/Arrival2.png' },
+  { name: 'Black Polo Shirt', price: '$49.00', img: '/Arrival3.png' },
+  { name: 'Blue Sweatshirt', price: '$79.00', img: '/Arrival4.png' },
+  { name: 'Blue Plain Shirt', price: '$49.00', img: '/Arrival5.png' },
+  { name: 'Dark Blue Shirt', price: '$89.00', img: '/Arrival6.png' },
+  { name: 'Outcast T Shirt', price: '$19.00', img: '/Arrival7.png' },
+  { name: 'Polo Plain Shirt', price: '$29.00', img: '/Arrival8.png' },
 ]
 
 export default function NewArrivals() {
