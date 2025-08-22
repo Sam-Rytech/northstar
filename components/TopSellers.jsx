@@ -1,8 +1,8 @@
 const topSellers = [
-  { name: 'Gray Polo Shirt', price: '$49.00', img: '/s1.jpg' },
-  { name: 'Red Shirt', price: '$69.00', img: '/s2.jpg' },
-  { name: 'Polo White Shirt', price: '$29.00', img: '/s3.jpg' },
-  { name: 'Pink Casual Shirt', price: '$39.00', img: '/s4.jpg' },
+  { name: 'Gray Polo Shirt', price: '$49.00', img: '/TS1.png' },
+  { name: 'Red Shirt', price: '$69.00', img: '/TS2.png' },
+  { name: 'Polo White Shirt', price: '$29.00', img: '/TS3.png' },
+  { name: 'Pink Casual Shirt', price: '$39.00', img: '/TS4.png' },
 ]
 
 export default function TopSellers() {
@@ -18,7 +18,7 @@ export default function TopSellers() {
             <img
               src={p.img}
               alt={p.name}
-              className="w-full h-64 object-cover"
+              className="object-cover"
             />
             <p>{p.name}</p>
             <p className="text-blue-600">{p.price}</p>
