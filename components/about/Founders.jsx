@@ -15,7 +15,7 @@ export default function Founders() {
             <img
               src={f.img}
               alt={f.name}
-              className="w-full h-48 object-cover rounded-lg"
+              className="w-[280px] h-48 object-cover rounded-lg"
             />
             <p className="mt-2 font-medium">{f.name}</p>
           </div>
