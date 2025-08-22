@@ -1,9 +1,17 @@
-import React from 'react'
+import Hero from '../../components/about/Hero'
+import Showcase from '../../components/about/Showcase'
+import Founders from '../../components/about/Founders'
+import Testimonials from '../../components/about/Testimonials'
+import Footer from '../components/Footer'
 
-const page = () => {
+export default function AboutPage() {
   return (
-    <div>page</div>
+    <div>
+      <Hero />
+      <Showcase />
+      <Founders />
+      <Testimonials />
+      <Footer />
+    </div>
   )
 }
-
-export default page
