@@ -1,8 +1,8 @@
 const founders = [
-  { name: 'HM Jawad', img: '/founder1.jpg' },
-  { name: 'Furqan Abid', img: '/founder2.jpg' },
-  { name: 'Abdullah Ah', img: '/founder3.jpg' },
-  { name: 'Abrar Khan', img: '/founder4.jpg' },
+  { name: 'HM Jawad', img: '/About/Founder1.jpg' },
+  { name: 'Furqan Abid', img: '/About/Founder2.jpg' },
+  { name: 'Abdullah Ah', img: '/About/Founder3.jpg' },
+  { name: 'Abrar Khan', img: '/About/Founder4.jpg' },
 ]
 
 export default function Founders() {
