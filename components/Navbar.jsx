@@ -10,10 +10,10 @@ export default function Navbar() {
           <Link href="/">Home</Link>
         </li>
         <li>
-          <Link href="/about">About</Link>
+          <Link href="/About">About</Link>
         </li>
         <li>
-          <Link href="/contact">Contact Us</Link>
+          <Link href="/Contact">Contact Us</Link>
         </li>
       </ul>
       <div className="flex space-x-4">
