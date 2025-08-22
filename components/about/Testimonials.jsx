@@ -2,17 +2,17 @@ const testimonials = [
   {
     name: 'Stacy',
     text: 'Once we ordered some accessories items and we got the products delivered in our doorstep, the customer support was super helpful and they answered all my queries.',
-    img: '/stacy.jpg',
+    img: '/About/Test1.png',
   },
   {
     name: 'Tiffany',
     text: 'I ordered 5 shirts from them and received them in no time. The customer support was awesome!',
-    img: '/tiffany.jpg',
+    img: '/About/Test2.png',
   },
   {
     name: 'James',
     text: 'I got a wrong shirt so I contacted them and they happily offered me a refund. I will surely shop from them again.',
-    img: '/james.jpg',
+    img: '/About/Test3.png',
   },
 ]
 
