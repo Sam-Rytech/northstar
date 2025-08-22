@@ -1,7 +1,7 @@
 export default function Showcase() {
   const items = [
-    { img: '/woman.jpg', btn: 'BUY NOW' },
-    { img: '/man.jpg', btn: 'BUY NOW' },
+    { img: '/About/Woman.png', btn: 'BUY NOW' },
+    { img: '/About/Man.png', btn: 'BUY NOW' },
   ]
 
   return (
@@ -11,7 +11,7 @@ export default function Showcase() {
           <img
             src={item.img}
             alt=""
-            className="w-full h-96 object-cover rounded-lg"
+            className="w-full object-cover rounded-lg"
           />
           <button className="absolute bottom-6 left-1/2 -translate-x-1/2 bg-white px-6 py-2 rounded-full shadow">
             {item.btn}
