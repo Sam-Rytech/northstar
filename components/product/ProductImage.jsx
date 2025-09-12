@@ -9,7 +9,7 @@ const ProductImage = () => {
       </span>
 
       <img
-        src="/Product1.png"
+        src="/Product2.png"
         alt="Plain White Shirt"
         className="w-full rounded-lg object-cover"
       />

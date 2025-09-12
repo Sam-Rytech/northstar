@@ -18,7 +18,9 @@ export default function Navbar() {
       </ul>
       <div className="flex space-x-4">
         <button>👤</button>
-        <button>🛒</button>
+        <Link href="/Cart">
+          <button>🛒</button>
+        </Link>
       </div>
     </nav>
   )
