@@ -1,7 +1,7 @@
 import Navbar from '@/components/Navbar'
-import ProductImage from '@/components/ProductImage'
-import ProductDetails from '@/components/ProductDetails'
-import ProductTabs from '@/components/ProductTabs'
+import ProductImage from '@/components/product/ProductImage'
+import ProductDetails from '@/components/product/ProductDetails'
+import ProductTabs from '@/components/product/ProductTabs'
 import Footer from '@/components/Footer'
 
 export default function ProductPage() {
