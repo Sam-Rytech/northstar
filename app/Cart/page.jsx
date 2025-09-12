@@ -1,7 +1,7 @@
 import Header from '@/components/Header'
-import Footer from '@/components/Footer'
-import CartTable from '@/components/CartTable'
-import CartTotals from '@/components/CartTotals'
+import Footer from '@/components/cart/Footer'
+import CartTable from '@/components/cart/CartTable'
+import CartTotals from '@/components/cart/CartTotals'
 
 export default function CartPage() {
   const cartItems = [
