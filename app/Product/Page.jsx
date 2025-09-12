@@ -1,4 +1,4 @@
-import Header from '@/components/Navbar'
+import Navbar from '@/components/Navbar'
 import ProductImage from '@/components/ProductImage'
 import ProductDetails from '@/components/ProductDetails'
 import ProductTabs from '@/components/ProductTabs'
