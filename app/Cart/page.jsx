@@ -1,5 +1,5 @@
-import Header from '@/components/Header'
-import Footer from '@/components/cart/Footer'
+import Navbar from '@/components/Navbar'
+import Footer from '@/components/Footer'
 import CartTable from '@/components/cart/CartTable'
 import CartTotals from '@/components/cart/CartTotals'
 
@@ -21,7 +21,7 @@ export default function CartPage() {
 
   return (
     <div>
-      <Header />
+      <Navbar />
 
       <main className="max-w-6xl mx-auto px-6 py-12">
         <h1 className="text-2xl font-bold mb-8 uppercase">Shopping Cart</h1>
