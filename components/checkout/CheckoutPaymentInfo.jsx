@@ -8,7 +8,7 @@ const CheckoutPaymentInfo = () => {
         make alternate arrangements.
       </p>
       <Link
-        href="/order-confirmation"
+        href="/Confirmation"
         className="block bg-orange-600 text-white text-center py-3 rounded-md hover:bg-orange-700 transition"
       >
         PLACE ORDER
