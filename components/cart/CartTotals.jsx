@@ -21,7 +21,7 @@ const CartTotals = ({ subtotal, shipping }) => {
       </div>
 
       <Link
-        href="/checkout"
+        href="/Checkout"
         className="block bg-orange-600 text-white text-center py-3 rounded-md mt-4 hover:bg-orange-700 transition"
       >
         PROCEED TO CHECKOUT
