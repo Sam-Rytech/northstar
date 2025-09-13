@@ -1,8 +1,8 @@
 import Navbar from '@/components/Navbar'
 import Footer from '@/components/Footer'
-import CheckoutForm from '@/components/CheckoutForm'
-import CheckoutOrderSummary from '@/components/CheckoutOrderSummary'
-import CheckoutPaymentInfo from '@/components/CheckoutPaymentInfo'
+import CheckoutForm from '@/components/checkout/CheckoutForm'
+import CheckoutOrderSummary from '@/components/checkout/CheckoutOrderSummary'
+import CheckoutPaymentInfo from '@/components/checkout/CheckoutPaymentInfo'
 
 export default function CheckoutPage() {
   // Replace this with data from cart context
