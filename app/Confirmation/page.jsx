@@ -1,11 +1,11 @@
 import Link from 'next/link'
-import Header from '@/components/Header'
+import Navbar from '@/components/Navbar'
 import Footer from '@/components/Footer'
 
 export default function OrderConfirmationPage() {
   return (
     <div>
-      <Header />
+      <Navbar />
 
       <main className="flex flex-col items-center justify-center min-h-[60vh] px-6">
         <div className="bg-orange-600 text-white rounded-xl p-10 max-w-lg w-full text-center shadow-md">
